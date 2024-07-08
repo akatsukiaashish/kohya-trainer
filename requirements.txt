@@ -1,10 +1,11 @@
 accelerate
+torch==2.3.0
 salesforce-lavis
 transformers
 diffusers[torch]
 ftfy
 # albumentations==1.3.0
-opencv-python
+opencv-python==4.10.0.84
 einops
 pytorch-lightning
 bitsandbytes
